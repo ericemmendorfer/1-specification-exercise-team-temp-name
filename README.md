@@ -58,7 +58,9 @@ Use Cases:
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Prject 1 Classes UML](https://github.com/ericemmendorfer/1-specification-exercise-team-temp-name/assets/91583186/9dbd30d2-de48-45b3-862c-077c4e41c309)
+![Use Case 2 UML](https://github.com/ericemmendorfer/1-specification-exercise-team-temp-name/assets/91583186/c9a3e854-76cf-4e76-aa98-0f7f090f7cd5)
+![Use Case 1 UML](https://github.com/ericemmendorfer/1-specification-exercise-team-temp-name/assets/91583186/5b917470-1f5d-4cab-8542-370b3c8786a1)
 
 ## Clickable Prototype
 
